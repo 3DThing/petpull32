@@ -16,7 +16,8 @@ The board supports:
 
 
 The control takes place through the LCD display via the I2C interface as well as through the encoder KY-040.
-To warn about critical errors, overheating, etc., a buzzer is connected to GPIO17.  The board is powered by 12 or 24 volts DC.
+To warn about critical errors, overheating, etc., a buzzer is connected to GPIO17.  
+The board is powered by 12 or 24 volts DC.
 
 
 Schematic diagram of the board.  
