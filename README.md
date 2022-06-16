@@ -17,7 +17,7 @@ To warn about critical errors, overheating, etc., a buzzer is connected to GPIO1
 
 
 Schematic diagram of the board.  
-![Image alt](https://github.com/3DThing/petpull32/blob/main/Hardware/Schematic.pdf)
+![Image alt](https://github.com/3DThing/petpull32/blob/main/Hardware/Schematic_PETPULL32.svg)
 
 
 In the plans:  
