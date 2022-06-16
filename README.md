@@ -1,8 +1,9 @@
 # PetPull32
 
-
-![Image](https://github.com/3DThing/petpull32/blob/main/Hardware/PCB_TOP.svg) | ![Image](https://github.com/3DThing/petpull32/blob/main/Hardware/PCB_DOWN.svg)
-| :--: | 
+ <p align="center"> 
+    <img src="https://github.com/3DThing/petpull32/blob/main/Hardware/PCB_TOP.svg">
+    <img src="https://github.com/3DThing/petpull32/blob/main/Hardware/PCB_DOWN.svg">
+ </p>
 
 This board based on ESP32 WROOM 4-16mb with support wifi and bluetooth. Designed for the production of filament for 3D printing, with a diameter of 1.75mm.
 
