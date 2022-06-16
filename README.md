@@ -16,9 +16,9 @@ The control takes place through the LCD display via the I2C interface as well as
 To warn about critical errors, overheating, etc., a buzzer is connected to GPIO17.
 
 
-In the plans:
-:white_check_mark: 1. Development of the circuit and board.
-:black_square_button: 2. Production of test boards.
-:black_square_button: 3. Firmware development with encoder control.
-:black_square_button: 4. Development of Windows/Linux/Mac/Android application for remote control.
-:black_square_button: 5. Production of filament for 3D printing from plastic bottles for own use :-)
+In the plans:  
+:white_check_mark: 1. Development of the circuit and board.  
+:black_square_button: 2. Production of test boards.  
+:black_square_button: 3. Firmware development with encoder control.  
+:black_square_button: 4. Development of Windows/Linux/Mac/Android application for remote control.  
+:black_square_button: 5. Production of filament for 3D printing from plastic bottles for own use :-). 
